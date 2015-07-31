@@ -7,7 +7,8 @@ Notable features are:
 
 - Simple and clean design
 - Client side source code highlighting
-- Social links (Twitter, Facebook, GitHub, LinkedIn, Instagram, Keybase)
+- Social links (Twitter, Facebook, GitHub, LinkedIn, Google+, Instagram, Keybase)
+- Comments with Disqus
 - Support for tags
 - Analytics with Google Analytics or Mixpanel
 - Responsive design
