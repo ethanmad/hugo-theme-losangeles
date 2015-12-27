@@ -64,6 +64,11 @@ copyright = "&copy; Copyright notice"
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
 ```
 
+You may specify the following options in the front matter of content to make use of this theme's features.
+
+```toml
+nocomments = true # Disables Disqus comments on this content
+```
 ## Usage
 
 Use hugo's `-t vienna` or `--theme=vienna` option with hugo commands.
